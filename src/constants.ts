@@ -7,9 +7,9 @@ export const MAX_RETRY_ATTEMPTS = 10;
 
 export const TOKEN_DECIMALS = 9;
 
-export const OHM_TICKER = "EXOD";
-export const sOHM_TICKER = "sEXOD";
-export const wsOHM_TICKER = "wsEXOD";
+export const OHM_TICKER = "OBO";
+export const sOHM_TICKER = "sOBO";
+export const wsOHM_TICKER = "wsOBO";
 
 interface IPoolGraphURLS {
   [index: string]: string;
