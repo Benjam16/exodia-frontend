@@ -25,7 +25,7 @@ export const darkTheme = {
   activeLinkColor: "#F5DDB4",
   activeLinkSvgColor:
     "brightness(0) saturate(100%) invert(84%) sepia(49%) saturate(307%) hue-rotate(326deg) brightness(106%) contrast(92%)",
-  primaryButtonColor: "#f9f9f9",
+  primaryButtonColor: "#5CE1E6",
   primaryButtonBG: "#F4D092",
   primaryButtonHoverBG: "#5271FF", //gold became dark green
   secondaryButtonHoverBG: "rgba(54, 56, 64, 1)",
