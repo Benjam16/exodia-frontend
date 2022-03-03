@@ -39,19 +39,19 @@ const Balance = () => {
             <Typography variant="h6" style={{ marginRight: "12px", marginLeft: "18px" }}>
               {trim(ohmBalance || 0, 2)}
             </Typography>
-            <Typography variant="body1">EXOD</Typography>
+            <Typography variant="body1">OBO</Typography>
           </Box>
           <Box display="flex" alignItems="center">
             <Typography variant="h6" style={{ marginRight: "12px", marginLeft: "18px" }}>
               {trim(sohmBalance || 0, 2)}
             </Typography>
-            <Typography variant="body1">sEXOD</Typography>
+            <Typography variant="body1">sOBO</Typography>
           </Box>
           <Box display="flex" alignItems="center">
             <Typography variant="h6" style={{ marginRight: "12px", marginLeft: "18px" }}>
               {trim(wsohmBalance || 0, 3)}
             </Typography>
-            <Typography variant="body1">wsEXOD</Typography>
+            <Typography variant="body1">wsOBO</Typography>
           </Box>
         </Box>
       )}
