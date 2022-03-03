@@ -72,7 +72,7 @@ export const darkTheme = {
   trendUp: "#43e055",
   trendDown: "#ed3939",
   mainBackground:
-    "linear-gradient(180deg, rgba(8, 35, 23, 0), rgba(10, 13, 10, 0.9)), " +
+    "linear-gradient(180deg, rgba(0, 74, 173, 1), rgba(10, 13, 10, 0.9)), " +
     "linear-gradient(333deg, rgba(13, 27, 15, 0.2), rgba(18, 25, 17, 0.08)), " +
     "radial-gradient(circle at 77% 89%, rgba(15, 25, 15, 0.8), rgba(15, 23, 19, 0) 50%), " +
     "radial-gradient(circle at 15% 95%, rgba(15, 23, 15, 0.8), rgba(15, 23, 19, 0) 43%), " +
