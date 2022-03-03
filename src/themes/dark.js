@@ -20,7 +20,7 @@ export const darkTheme = {
   modalBg: "#24242699",
   popoverBg: "rgba(54, 56, 64, 0.99)",
   menuBg: "#080c00",
-  backdropBg: "rgba(3, 10, 0, 0.5)",
+  backdropBg: "rgb(0, 74, 173)",
   largeTextColor: "#F4D092",
   activeLinkColor: "#F5DDB4",
   activeLinkSvgColor:
