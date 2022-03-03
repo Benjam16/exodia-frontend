@@ -65,11 +65,11 @@ const filterSortDataKeys = (keys, type) => {
 const sortTreasuryKeys = (first, second) => {
   const getPriority = key => {
     switch (key) {
-      case "EXOD":
+      case "Oblisk":
         return 0;
-      case "DAI":
+      case "COkky":
         return 1;
-      case "miMATIC":
+      case "BIg":
         return 2;
       case "WFTM":
         return 3;
