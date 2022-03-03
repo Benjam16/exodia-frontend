@@ -9,7 +9,7 @@ import navBg from "../assets/images/exod-sidebar.jpg";
 //dark green rgb(91,196,34)
 export const darkTheme = {
   color: "#FCFCFC",
-  gold: "#46ab15", // Light green
+  gold: "##5271FF", // Light green
   goldDimmed: "#376e1d",
   goldBright: "#6dd63a",
   gray: "#A3A3A3",
@@ -27,18 +27,18 @@ export const darkTheme = {
     "brightness(0) saturate(100%) invert(84%) sepia(49%) saturate(307%) hue-rotate(326deg) brightness(106%) contrast(92%)",
   primaryButtonColor: "#f9f9f9",
   primaryButtonBG: "#F4D092",
-  primaryButtonHoverBG: "#379414", //gold became dark green
+  primaryButtonHoverBG: "#5271FF", //gold became dark green
   secondaryButtonHoverBG: "rgba(54, 56, 64, 1)",
-  outlinedPrimaryButtonHoverBG: "#379414", //gold became dark green
+  outlinedPrimaryButtonHoverBG: "#5271FF", //gold became dark green
   outlinedPrimaryButtonHoverColor: "#333333",
   outlinedSecondaryButtonHoverBG: "transparent",
-  outlinedSecondaryButtonHoverColor: "#379414", //gold became dark green
+  outlinedSecondaryButtonHoverColor: "#5271FF", //gold became dark green
   containedSecondaryButtonHoverBG: "rgba(255, 255, 255, 0.15)",
   graphStrokeColor: "rgba(255, 255, 255, .1)",
   sidebarBackground: `linear-gradient(0deg, rgba(31,31,31,1) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%), url(${navBg})`,
   chartColors: ["#46ab15", "#ebc342", "#fe868c", "#598fb5", "#775bb5", "#42bd8c", "#db3737", "#888888"],
   treasuryColors: {
-    EXOD: "#46ab15",
+    EXOD: "#5271FF",
     wsEXOD: "#6dd63a",
     DAI: "#ebc342",
     "DAI-EXOD": "#888888",
