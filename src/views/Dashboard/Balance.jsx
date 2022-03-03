@@ -51,7 +51,7 @@ const Balance = () => {
             <Typography variant="h6" style={{ marginRight: "12px", marginLeft: "18px" }}>
               {trim(wsohmBalance || 0, 3)}
             </Typography>
-            <Typography variant="body1">wsOBO</Typography>
+            <Typography variant="body1">wsOBOO</Typography>
           </Box>
         </Box>
       )}
